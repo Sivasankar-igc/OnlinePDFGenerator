@@ -1,0 +1,15 @@
+.remove-btn {
+    pointer-events: auto;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: .3s all ease;
+}
+
+.remove-btn:hover {
+    transform: scale(.93);
+}
